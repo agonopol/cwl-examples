@@ -1,0 +1,7 @@
+output: domtbl.profile
+hmm:
+  class: File
+  path: profile.hmm
+fasta:
+  class: File
+  path: translated.fasta

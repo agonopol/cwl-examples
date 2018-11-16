@@ -1,0 +1,4 @@
+fasta:
+  class: File
+  path: athrep.fasta
+dest: translated.fasta

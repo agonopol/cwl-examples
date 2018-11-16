@@ -1,0 +1,8 @@
+output: report.html
+table:
+  class: File
+  path: domtbl.profile
+fasta:
+  class: File
+  path: translated.fasta
+

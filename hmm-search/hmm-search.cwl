@@ -5,7 +5,7 @@ class: CommandLineTool
 baseCommand: hmmsearch
 hints:
   DockerRequirement:
-    dockerPull: git.imp.fu-berlin.de:5000/bzfgonop/hmm-docker-cwl
+    dockerPull: git.imp.fu-berlin.de:5000/bzfgonop/hmm-docker-cwl/hmm-search
 inputs:
   output:
     type: string

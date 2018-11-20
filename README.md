@@ -1,4 +1,5 @@
-# Common Workflow Language Example of fasta + hmm profile -> html report
+# Common Workflow Language Example:
+Simple report by combining fasta + hmm profile to generate html report
 
 ![alt Workflow](https://raw.githubusercontent.com/agonopol/cwl-examples/master/data/fasta-hmm-search.png)
 

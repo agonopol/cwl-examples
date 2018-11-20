@@ -10,7 +10,7 @@ inputs:
     type: File
 
 outputs:
-  report:
+  html:
     type: File
     outputSource: report/html
 

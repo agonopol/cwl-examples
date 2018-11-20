@@ -1,0 +1,6 @@
+fasta:
+  class: File
+  path: data/athrep.fasta
+hmm: 
+  class: File
+  path: data/profile.hmm

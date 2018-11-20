@@ -20,7 +20,7 @@ inputs:
     inputBinding:
       prefix: -o
 outputs:
-  report:
+  html:
     type: File    
     outputBinding:
       glob:  $(inputs.output)

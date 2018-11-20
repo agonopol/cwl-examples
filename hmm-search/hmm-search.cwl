@@ -21,7 +21,7 @@ inputs:
     inputBinding:
       position: 2 
 outputs:
-  search:
+  domtblout:
     type: File    
     outputBinding:
       glob:  $(inputs.output)

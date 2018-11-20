@@ -22,9 +22,9 @@ ATLINE1_9            -           1350 aRNH_profile         -            121   3.
 # Program:         hmmsearch
 # Version:         3.1b2 (February 2015)
 # Pipeline mode:   SEARCH
-# Query file:      /var/lib/cwl/stgd73fd881-102c-40d3-81c8-c91208d8d6e7/profile.hmm
-# Target file:     /var/lib/cwl/stg6da2b132-5eb3-48de-9b77-ec8ff198622e/translated.fasta
-# Option settings: hmmsearch --domtblout domtbl.profile /var/lib/cwl/stgd73fd881-102c-40d3-81c8-c91208d8d6e7/profile.hmm /var/lib/cwl/stg6da2b132-5eb3-48de-9b77-ec8ff198622e/translated.fasta 
-# Current dir:     /mxAWOz
-# Date:            Fri Nov 16 12:38:13 2018
+# Query file:      /var/lib/cwl/stg3527dbe2-be45-4888-8d27-78638f41fd46/profile.hmm
+# Target file:     /var/lib/cwl/stgd1a1745e-fd39-4519-8df8-ca1b460a9c09/translated.fasta
+# Option settings: hmmsearch --domtblout domtbl.profile /var/lib/cwl/stg3527dbe2-be45-4888-8d27-78638f41fd46/profile.hmm /var/lib/cwl/stgd1a1745e-fd39-4519-8df8-ca1b460a9c09/translated.fasta 
+# Current dir:     /QckbxP
+# Date:            Tue Nov 20 10:38:26 2018
 # [ok]
